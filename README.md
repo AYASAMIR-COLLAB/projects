@@ -33,8 +33,8 @@
 <h2 align="left">💡 What I'm Working On:</h2>
 
 - 📚 Improving my Frontend skills  
-- 💻 Building small projects & sharing them on GitHub  
-- 🧪 Exploring tech + research fields (like Image Processing)  
+- 💻 Building projects & sharing them on GitHub  
+- 🧪 Exploring tech + research fields (Image Processing, Data)  
 - 🎬 Learning content creation & digital media  
 
 ---
@@ -51,4 +51,4 @@
 
 <h2 align="left">🌐 Let's Connect:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](PUT-YOUR-LINK-HERE)
+[![Linkedin Badge](https://img.shields.io/badge/-Aya_Mohamed-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aya-mohamed-samir-5780a9267)
